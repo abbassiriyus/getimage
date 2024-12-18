@@ -3,6 +3,7 @@ const axios = require('axios');
 const app = express();
 const port = 3000;
 
+
 // Moysklad API tokeni
 const token = 'YWRtaW5Ad2ViYWJiYXM5MTphYmJhczEyMw=='; // Tokenni shu yerga qo'ying
 
